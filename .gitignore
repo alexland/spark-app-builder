@@ -1,0 +1,7 @@
+
+*.zip
+.DS_Store
+target/
+lib/
+project/
+*.jar
